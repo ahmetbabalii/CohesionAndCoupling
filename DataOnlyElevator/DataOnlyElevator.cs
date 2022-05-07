@@ -10,5 +10,6 @@ namespace DataOnlyElevatorTest
 		public const int CAPACITY = 1000;
 		public const int TOP_FLOOR = 5;
 		public const int BOTTOM_FLOOR = 1;
+
 	}
 }
